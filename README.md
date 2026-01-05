@@ -6,4 +6,4 @@ This repository has files and details for CSCI 311 for the Spring 2026 semester.
 
 -[Proj-02 (JrProg tutorial 1)] (https://github.com/RUGameDev/Proj-02-JrProg)
 
-  -[Assets file for Proj-02] (https://github.com/RUGameDev/CSCI311-SP26/blob/main/Prototype-1_Starter-Files_U6.unitypackage)
+  -[package file for Proj-02] (https://github.com/RUGameDev/CSCI311-SP26/blob/main/Prototype-1_Starter-Files_U6.unitypackage)
